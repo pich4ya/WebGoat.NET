@@ -20,3 +20,14 @@
     Exit from mysql:
 
         mysql> quit; 
+
+
+File: C:\Users\xxxx\source\repos\WebGoat.NET\WebGoat\Configuration\Default.config
+dbtype=MySql
+filename=C:\ProgramData\MySQL\MySQL Server 5.7\Data\
+client=C:\Program Files\MySQL\MySQL Server 5.7\bin\mysql.exe
+pwd=xxxx
+uid=xxxx
+database=webgoat_coins
+port=3306
+host=localhost
