@@ -22,6 +22,8 @@
         mysql> quit; 
 
 
+PM> Install-Package MySql.Data
+
 File: C:\Users\xxxx\source\repos\WebGoat.NET\WebGoat\Configuration\Default.config
 dbtype=MySql
 filename=C:\ProgramData\MySQL\MySQL Server 5.7\Data\
