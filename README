@@ -1,7 +1,7 @@
 	
 	From the prompt, cd into the WebGoat.NET DB directory
 
-        % cd /WebGoat.NET/DB
+        % cd /WebGoat.NET/DB_Scripts
 
     Start the mysql utility, giving the name (and password, if needed) of a user permission to create databases. For example, to use the default root user:
 
